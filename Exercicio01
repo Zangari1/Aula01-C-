@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <cstdlib>
+
+int main() {
+	printf("Mackenzie-FCI\n");
+	printf("Algoritmos e ");
+	printf("Prog. II\n");
+	printf("Sala 102 - Predio 33\n");
+	
+	
+	system("pause");
+	return 0;
+}
